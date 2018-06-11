@@ -1,4 +1,4 @@
-# [WellPower]
+# WellPower
 
 ## Team
 
@@ -11,5 +11,3 @@ WellPower upcycles solar panels and repurposed automobile lithium ion batteries 
 ## Copyright and License
 
 Copyright 2018 WellPower
-# WellPower
-# WellPower
